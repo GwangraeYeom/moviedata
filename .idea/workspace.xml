@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72ed8778-173c-46a2-86d8-1a3b9d6e605d" name="Default Changelist" comment="" />
+    <list default="true" id="72ed8778-173c-46a2-86d8-1a3b9d6e605d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/gr/Example_Matplot/Ex1_BasicFlow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/movie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/movie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/gr/Example_Matplot/EX2_basicMatplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gr/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gr/add.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1XNZOBqxt6Ry7V7LnUUYkGKFwYt" />
   <component name="ProjectViewState">
@@ -19,6 +35,40 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\moviedata\moviedata\data\gr\Example_Matplot" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Ex1_BasicFlow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="movie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data/gr/Example_Matplot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\moviedata\moviedata\data\gr\Example_Matplot\Ex1_BasicFlow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Ex1_BasicFlow" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -43,6 +93,68 @@
       <option name="presentableId" value="Default" />
       <updated>1580888477491</updated>
     </task>
+    <task id="LOCAL-00001" summary="test1">
+      <created>1580968470056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580968470056</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="72" y="185" key="#Notifications" timestamp="1581055042684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="72" y="185" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1581055042684" />
+    <state x="142" y="121" key="CommitChangelistDialog2" timestamp="1580968468999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="142" y="121" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580968468999" />
+    <state x="0" y="96" key="DiffContextDialog" timestamp="1581055184470">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="96" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581055184470" />
+    <state x="260" y="402" key="Github.CreatePullRequestDialog" timestamp="1581055452274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="260" y="402" key="Github.CreatePullRequestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581055452274" />
+    <state width="936" height="281" key="GridCell.Tab.0.bottom" timestamp="1581054418988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581054418988" />
+    <state width="936" height="281" key="GridCell.Tab.0.center" timestamp="1581054418988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581054418988" />
+    <state width="936" height="281" key="GridCell.Tab.0.left" timestamp="1581054418988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581054418988" />
+    <state width="936" height="281" key="GridCell.Tab.0.right" timestamp="1581054418988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581054418988" />
+    <state x="0" y="169" key="SettingsEditor" timestamp="1580968966961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="169" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580968966961" />
+    <state x="72" y="260" key="Vcs.Push.Dialog.v2" timestamp="1580968475777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="72" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580968475777" />
+    <state x="286" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581054328401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="286" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581054328401" />
+    <state x="184" y="326" key="git4idea.merge.GitPullDialog" timestamp="1581055465370">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="326" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581055465370" />
   </component>
 </project>
